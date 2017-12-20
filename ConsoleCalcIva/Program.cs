@@ -9,7 +9,7 @@ namespace ConsoleCalcIva
     {
         static void Main(string[] args)
         {
-            //variaveis
+
             double totalSemIva = 0;
             double valorIva = 0.23;
             double totalComIva = 0;
